@@ -1,4 +1,4 @@
-# [William Alexander Pinto Gonzalez](https://williamp04.github.io/developer-WILLIAM-PG/)
+# [William Alexander Pinto Gonzalez](https://williamp04.github.io/Portafolio-web_wapg/)
 
 [![William Alexander Pinto Gonzalez](https://i.postimg.cc/xjPd5vhr/imagen-2023-05-08-085106395.png)](https://williamp04.github.io/developer-WILLIAM-PG/)
 
@@ -8,7 +8,7 @@ Un estudiante de programación con un amor por la tecnología, Cuya pasión por 
 ## 💻 Instalación 💻
 - Ubicarse en la carpeta que contendrá el proyecto
 - Abrir terminal de comandos
-  - git clone https://github.com/williamp04/developer-WILLIAM-PG/deployments/activity_log?environment=github-pages
+  - git clone https://github.com/williamp04/Portafolio-web_wapg.git
   - cd developer-WILLIAM-PG
   - Levantar la web en un servidor y disfrutar
 
@@ -21,7 +21,7 @@ Un estudiante de programación con un amor por la tecnología, Cuya pasión por 
 
 
 ## 🤗 Redes sociales 🤗
-- 🐭 facebook: https://www.facebook.com/william.pinto.749?mibextid=ZbWKwL 🐭
+- 🐭 facebook: https://www.facebook.com/william.pinto.749🐭
 - 🐭 GitHub: https://github.com/ 🐭
 - 🐭 tiktok: https://www.tiktok.com/@williamp_16?_t=8c3IPH1xRsk&_r=1 🐭
 - 🐭 Instagram: https://instagram.com/williamp_16?igshid=ZDdkNTZiNTM= 🐭
