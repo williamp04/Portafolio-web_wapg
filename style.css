@@ -74,6 +74,7 @@ html {
     color: #fff;
     display: flex;
     align-items: center;
+    position: relative;
 }
 
 .inicio .contenido-banner {
@@ -220,13 +221,17 @@ html {
     background-color: transparent;
     border: 2px solid #fff;
     width: fit-content;
-    display: block;
     margin: 20px auto;
-    padding: 10px 22px;
+    padding: 10px 202px;
     font-size: 16px;
     color: #fff;
     position: relative;
     z-index: 10;
+}
+
+.sobremi button .cv {
+    color: #fff;
+    text-decoration: none;
 }
 
 .sobremi button .overlay {
@@ -486,7 +491,6 @@ html {
 
 .curriculum .fila {
     display: flex;
-    justify-content: space-between;
 }
 
 .curriculum .fila .col {
