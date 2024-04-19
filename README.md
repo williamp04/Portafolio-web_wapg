@@ -17,6 +17,7 @@ Un estudiante de programación con un amor por la tecnología, Cuya pasión por 
 |------------|---------|---------------------------------------------------------------------------------|
 | HTML       | 5       | Lenguaje de Marcas que define el significado y la estructura del contenido web. |
 | CSS        | 3       | Lenguaje de estilos utilizado para describir la presentación de documentos.     |
+| JAVASCRIPT | ES 2021 | Lenguaje de programación ligero, interpretado, o compilado justo-a-tiempo.      |
 
 
 ## 🤗 Redes sociales 🤗
